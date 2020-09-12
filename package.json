@@ -1,0 +1,19 @@
+{
+  "name": "crudnodereacttest",
+  "version": "1.0.0",
+  "description": "crud node.js react test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grahamd99/crudnodereacttest.git"
+  },
+  "author": "Graham Dodsworth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grahamd99/crudnodereacttest/issues"
+  },
+  "homepage": "https://github.com/grahamd99/crudnodereacttest#readme"
+}
